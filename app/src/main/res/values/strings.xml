@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">7.2.1.AndroidPetukhova_Intent_SMS_CALL</string>
+    <string name="call">Звоним</string>
+    <string name="send">Отправляем</string>
+    <string name="sms">Введите СМС</string>
+    <string name="phone_number">Введите номер телефона</string>
+</resources>
